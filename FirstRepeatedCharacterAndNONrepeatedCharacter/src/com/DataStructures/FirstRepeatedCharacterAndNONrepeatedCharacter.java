@@ -34,6 +34,7 @@ public class FirstRepeatedCharacterAndNONrepeatedCharacter {
 			if(charcountmap.get(c)>1)
 			{
 				System.out.println("Repeated Character...     "+c);
+				
 				break;
 			}
 		}
